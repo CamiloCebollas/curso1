@@ -1,1 +1,1 @@
-# Diplomado de Análisis de datos y Machine Learning en Python 
+# Análisis de datos y Machine Learning en Python 
